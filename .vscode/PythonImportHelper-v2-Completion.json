@@ -1,0 +1,646 @@
+[
+    {
+        "label": "emails",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "emails",
+        "description": "emails",
+        "detail": "emails",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "variables",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "variables",
+        "description": "variables",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "logPath",
+        "importPath": "variables",
+        "description": "variables",
+        "isExtraImport": true,
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "aiofiles",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "aiofiles",
+        "description": "aiofiles",
+        "detail": "aiofiles",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Layouts",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "Layouts",
+        "description": "Layouts",
+        "detail": "Layouts",
+        "documentation": {}
+    },
+    {
+        "label": "yagmail",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yagmail",
+        "description": "yagmail",
+        "detail": "yagmail",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "pytz",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytz",
+        "description": "pytz",
+        "detail": "pytz",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "responses",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "Server",
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "isExtraImport": true,
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "isExtraImport": true,
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "asynccontextmanager",
+        "importPath": "contextlib",
+        "description": "contextlib",
+        "isExtraImport": true,
+        "detail": "contextlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "uvicorn.server",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uvicorn.server",
+        "description": "uvicorn.server",
+        "detail": "uvicorn.server",
+        "documentation": {}
+    },
+    {
+        "label": "masterLogger",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "masterLogger",
+        "description": "masterLogger",
+        "detail": "masterLogger",
+        "documentation": {}
+    },
+    {
+        "label": "saveFiles",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "saveFiles",
+        "description": "saveFiles",
+        "detail": "saveFiles",
+        "documentation": {}
+    },
+    {
+        "label": "charGen",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "charGen",
+        "description": "charGen",
+        "detail": "charGen",
+        "documentation": {}
+    },
+    {
+        "label": "serverRestart",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "serverRestart",
+        "description": "serverRestart",
+        "detail": "serverRestart",
+        "documentation": {}
+    },
+    {
+        "label": "logging.config",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "RotatingFileHandler",
+        "importPath": "logging.handlers",
+        "description": "logging.handlers",
+        "isExtraImport": true,
+        "detail": "logging.handlers",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "characterGen",
+        "kind": 6,
+        "importPath": "charGen",
+        "description": "charGen",
+        "peekOfCode": "class characterGen:\n    def __init__(self, emailInstance):\n        self.logger = logging.getLogger(__name__)\n        self.lock = asyncio.Lock()\n        self.queuePath = variables.queuePath\n        self.maxQueueSize = variables.settings[\"settings\"][\"queueSize\"]\n        self.emailInstance = emailInstance\n    def next(self, previous= \"a\", incrementCounter=1):\n        _charset = \"\"\"abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%^&*()-_=+[]{}|;:'\\\",./<>?\\\\\"\"\"\n        _charsetLength = len(_charset)",
+        "detail": "charGen",
+        "documentation": {}
+    },
+    {
+        "label": "intake",
+        "kind": 6,
+        "importPath": "charGen",
+        "description": "charGen",
+        "peekOfCode": "class intake:\n    def __init__(self, emailInstance):\n        self.logger = logging.getLogger(__name__)\n        self.queue = asyncio.Queue()\n        self.emailInstance = emailInstance\n    async def addToQueue(self, data):\n        nodeId = data[\"packetInfo\"][\"node_id\"]\n        timestamp = time.time()\n        uniqueId = f\"{nodeId}-{timestamp}\"\n        await self.queue.put({\"name\": uniqueId, \"data\": data})",
+        "detail": "charGen",
+        "documentation": {}
+    },
+    {
+        "label": "Email",
+        "kind": 6,
+        "importPath": "emails",
+        "description": "emails",
+        "peekOfCode": "class Email:\n    def __init__(self, email, credentials):\n        self.email = email\n        self.credentials = credentials\n        self.yag = yagmail.SMTP(self.email, oauth2_file=self.credentials)\n        self.logger = logging.getLogger(__name__)\n    async def sendEmail(self, subject, contents, isPassword=False):\n        try:\n            if isPassword:\n                await asyncio.to_thread(self.yag.send,",
+        "detail": "emails",
+        "documentation": {}
+    },
+    {
+        "label": "EmailScheduler",
+        "kind": 6,
+        "importPath": "emails",
+        "description": "emails",
+        "peekOfCode": "class EmailScheduler:\n    def __init__(self, emailInstance):\n        self.emailInstance = emailInstance\n        self.logger = logging.getLogger(__name__)\n        self.task = None\n    async def checkAndSendWeeklyEmail(self):\n        while True:\n            try:\n                currentTime = time.time()\n                self.logger.info(f\"Checking if it is time to send the weekly email - currentTime: {currentTime} - weeklyLastTimeChecked: {variables.weeklyInfo['weeklyLastTimeChecked']}\")",
+        "detail": "emails",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "emails",
+        "description": "emails",
+        "peekOfCode": "def main():\n    # testing weekly email shuduler\n    email = Email(variables.settings[\"settings\"][\"masterEmail\"], variables.settings[\"settings\"][\"credentialsLocation\"])\n    scheduler = EmailScheduler(email)\n    asyncio.run(scheduler.start())\n    time.sleep(10)\n    asyncio.run(scheduler.stop())\nif __name__ == \"__main__\":\n    main()",
+        "detail": "emails",
+        "documentation": {}
+    },
+    {
+        "label": "Layouts",
+        "kind": 6,
+        "importPath": "Layouts",
+        "description": "Layouts",
+        "peekOfCode": "class Layouts:\n    def __init__(self):\n        pass\n    def onlineLayout(self):\n        _time = datetime.datetime.now(pytz.timezone('Australia/Sydney')).strftime('%Y-%m-%d %H:%M:%S %Z%z')\n        _layout = \"\"\"\n        <!DOCTYPE html>\n        <html lang=\"en\">\n        <html>\n            <body style=\"margin: 0;padding: 0;background-color: #ffffff;\">",
+        "detail": "Layouts",
+        "documentation": {}
+    },
+    {
+        "label": "#sslContext",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "#sslContext = ssl.create_default_context(ssl.PROTOCOL_TLS_SERVER)\n#sslContext.load_cert_chain(certfile=variables.settings[\"settings\"][\"sslcrt\"], keyfile=variables.settings[\"settings\"][\"sslkey\"])\n# initializing the logger\nmasterLogger.masterLogging()\nlogger = logging.getLogger(__name__)\n# Initializing instances\nemailScheduler = None\nsave = None\npasswordCheckQueue = None\nisProcessing = False",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# Initializing instances\nemailScheduler = None\nsave = None\npasswordCheckQueue = None\nisProcessing = False\nrestartManager = None\n# Initializing Queues\n# Initializing the password check queue\nqueueLock = asyncio.Lock()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "emailScheduler",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "emailScheduler = None\nsave = None\npasswordCheckQueue = None\nisProcessing = False\nrestartManager = None\n# Initializing Queues\n# Initializing the password check queue\nqueueLock = asyncio.Lock()\n# Initializing email \nemail = emails.Email(variables.settings[\"settings\"][\"masterEmail\"], variables.settings[\"settings\"][\"credentialsLocation\"])",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "save",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "save = None\npasswordCheckQueue = None\nisProcessing = False\nrestartManager = None\n# Initializing Queues\n# Initializing the password check queue\nqueueLock = asyncio.Lock()\n# Initializing email \nemail = emails.Email(variables.settings[\"settings\"][\"masterEmail\"], variables.settings[\"settings\"][\"credentialsLocation\"])\nsave = saveFiles.SaveFiles()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "passwordCheckQueue",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "passwordCheckQueue = None\nisProcessing = False\nrestartManager = None\n# Initializing Queues\n# Initializing the password check queue\nqueueLock = asyncio.Lock()\n# Initializing email \nemail = emails.Email(variables.settings[\"settings\"][\"masterEmail\"], variables.settings[\"settings\"][\"credentialsLocation\"])\nsave = saveFiles.SaveFiles()\npasswordCheckQueue= charGen.intake(emailInstance=email)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "isProcessing",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "isProcessing = False\nrestartManager = None\n# Initializing Queues\n# Initializing the password check queue\nqueueLock = asyncio.Lock()\n# Initializing email \nemail = emails.Email(variables.settings[\"settings\"][\"masterEmail\"], variables.settings[\"settings\"][\"credentialsLocation\"])\nsave = saveFiles.SaveFiles()\npasswordCheckQueue= charGen.intake(emailInstance=email)\npasswordGen = charGen.characterGen(emailInstance=email)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "restartManager",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "restartManager = None\n# Initializing Queues\n# Initializing the password check queue\nqueueLock = asyncio.Lock()\n# Initializing email \nemail = emails.Email(variables.settings[\"settings\"][\"masterEmail\"], variables.settings[\"settings\"][\"credentialsLocation\"])\nsave = saveFiles.SaveFiles()\npasswordCheckQueue= charGen.intake(emailInstance=email)\npasswordGen = charGen.characterGen(emailInstance=email)\nclientStatus = saveFiles.client()",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "queueLock",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "queueLock = asyncio.Lock()\n# Initializing email \nemail = emails.Email(variables.settings[\"settings\"][\"masterEmail\"], variables.settings[\"settings\"][\"credentialsLocation\"])\nsave = saveFiles.SaveFiles()\npasswordCheckQueue= charGen.intake(emailInstance=email)\npasswordGen = charGen.characterGen(emailInstance=email)\nclientStatus = saveFiles.client()\n@asynccontextmanager\nasync def lifespan(app: FastAPI):\n    # Annoucing global variables",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "email",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "email = emails.Email(variables.settings[\"settings\"][\"masterEmail\"], variables.settings[\"settings\"][\"credentialsLocation\"])\nsave = saveFiles.SaveFiles()\npasswordCheckQueue= charGen.intake(emailInstance=email)\npasswordGen = charGen.characterGen(emailInstance=email)\nclientStatus = saveFiles.client()\n@asynccontextmanager\nasync def lifespan(app: FastAPI):\n    # Annoucing global variables\n    global emailScheduler\n    global save",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "save",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "save = saveFiles.SaveFiles()\npasswordCheckQueue= charGen.intake(emailInstance=email)\npasswordGen = charGen.characterGen(emailInstance=email)\nclientStatus = saveFiles.client()\n@asynccontextmanager\nasync def lifespan(app: FastAPI):\n    # Annoucing global variables\n    global emailScheduler\n    global save\n    global passwordCheckQueue",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "passwordGen",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "passwordGen = charGen.characterGen(emailInstance=email)\nclientStatus = saveFiles.client()\n@asynccontextmanager\nasync def lifespan(app: FastAPI):\n    # Annoucing global variables\n    global emailScheduler\n    global save\n    global passwordCheckQueue\n    global isProcessing\n    isProcessing = False",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "clientStatus",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "clientStatus = saveFiles.client()\n@asynccontextmanager\nasync def lifespan(app: FastAPI):\n    # Annoucing global variables\n    global emailScheduler\n    global save\n    global passwordCheckQueue\n    global isProcessing\n    isProcessing = False\n    # This is the startup",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "app = FastAPI(lifespan=lifespan)\n# Checks if the server is shutting down if it is all passwords get processed and then the server shuts down\n@app.middleware(\"http\")\nasync def checkServerAvailability(request: Request, call_next):\n    if isProcessing:\n        return responses.JSONResponse(status_code=503, detail=\"Server is currently processing and unavailable for requests.\")\n    return await call_next(request)\n# Get Endpoints\n@app.get(\"/\")\nasync def root():",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "masterLogging",
+        "kind": 2,
+        "importPath": "masterLogger",
+        "description": "masterLogger",
+        "peekOfCode": "def masterLogging():\n    _loggerConfig = {\n        'version': 1,\n        'disable_existing_loggers': False,\n        'formatters': {\n            'standard': {\n                'format': '%(asctime)s - %(name)s - %(levelname)s - %(message)s'\n            },  \n        },\n        'handlers': {",
+        "detail": "masterLogger",
+        "documentation": {}
+    },
+    {
+        "label": "SaveFiles",
+        "kind": 6,
+        "importPath": "saveFiles",
+        "description": "saveFiles",
+        "peekOfCode": "class SaveFiles:\n    def __init__(self):\n        self.logger = logging.getLogger(__name__)\n    def loadMasterInfo(self):\n        try:\n            with open(variables.saveDataPath, \"r\") as file:\n                variables.masterInfo = json.load(file)\n            self.logger.info(\"Master info loaded successfully\")\n            self.logger.info(variables.masterInfo)\n        except FileNotFoundError:",
+        "detail": "saveFiles",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 6,
+        "importPath": "saveFiles",
+        "description": "saveFiles",
+        "peekOfCode": "class client:\n    def __init__(self ):\n        self.logger = logging.getLogger(__name__)\n    async def updateOnlineStatus(self, clientId):\n        # Find client id in nodes list\n        # check if node is in the offline list\n        if clientId in variables.nodes[\"offline\"]:\n            variables.nodes[\"offline\"].remove(clientId)\n            self.logger.info(f\"Node {clientId} is now online\")\n            self.logger.debug(f\"Nodes list: {variables.nodes}\")",
+        "detail": "saveFiles",
+        "documentation": {}
+    },
+    {
+        "label": "monthlyRestartManager",
+        "kind": 6,
+        "importPath": "serverRestart",
+        "description": "serverRestart",
+        "peekOfCode": "class monthlyRestartManager:\n    def __init__(self, server):\n        self.logger = logging.getLogger(__name__)\n        self.server = server\n        self.task = None\n    async def start(self):\n        self.logger.info(\"Starting the monthly restart manager\")\n        self.task = asyncio.create_task(self.restartMasterMonthly())\n    async def stop(self):\n        self.logger.info(\"Stopping the monthly restart manager\")",
+        "detail": "serverRestart",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "settings = {\n        \"settings\": {\n            'keys': { # At the moment the certificates aren't being used but they can be used for future implementations - Not too hard to implement\n                \"sslcrt\": str(Path.home() / \"node\" / \"certs\" / \"cert.pem\"), # Modify this for your own SSL certificate\n                \"sslkey\": str(Path.home() / \"node\" / \"keys\" / \"key.pem\"), # Modify this for your own SSL key\n                \"ca\": str(Path.home() / \"node\" / \"certs\" / \"ca.pem\"), # Modify this for your own CA certificate\n            },\n            'port': 443, # HTTPS port\n            'reciepientEmails': ['email@address', 'email@address'], # Update to your own email/'s \n            'credentialsLocation': str(Path.home() / \"node\" / \"credentials.json\"),",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "masterInfo",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "masterInfo = {\n    'onlineNodes': 0, # Number of internal nodes connected # Number of external nodes connected\n    'lastGeneratedPassword': 'a', # Last password generated\n    'lastSentPassword': 'a', # Last password sent\n    'lastCheckedPassword': 'a', \n    'amountOfPasswordsChecked': 0,\n    'amountOfPasswordsGenerated': 0,\n    \"lastCheckedPasswordTime\":0 # Unix timestamp\n}\n# weekly information",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "weeklyInfo",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "weeklyInfo = {\n    'weeklyOnlineNodes': 0, # Number of internal nodes connected # Number of external nodes connected\n    'weeklyLastGeneratedPassword': 'a', # Last password generated\n    'weeklyLastSentPassword': 'a', # Last password sent\n    'weeklyLastCheckedPassword': 'a',\n    'weeklyLastCheckedPasswordTime': 0, # Unix timestamp\n    'weeklyAmountOfPasswordsChecked': 0,\n    'weeklyAmountOfPasswordsGenerated': 0,\n    'weeklyLastTimeChecked': 0,\n}",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "sendDataPacket",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "sendDataPacket = {\n    \"packetInfo\": {\n        \"node_id\": \"Master\",\n        \"status\": \"True\",\n        \"sendData\": \"True\",\n        \"lastGeneratedPassword\": \"a\",\n        \"nextMasterRestart\": 0, # Unix timestamp\n    },\n    \"passwords\": [],\n}",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "nodes",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "nodes = {\n    \"online\": [],\n    \"offline\": []\n}\nfound = False\nserverShutdown = False\n# Paths\ndefaultPath = str(Path.home() / \"node\")\nsettingsPath = str(Path.home() / \"node\" / \"settings\")\nsettingsFilePath = str(Path.home() / \"node\" / \"settings\" / \"settings.ini\")",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "found",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "found = False\nserverShutdown = False\n# Paths\ndefaultPath = str(Path.home() / \"node\")\nsettingsPath = str(Path.home() / \"node\" / \"settings\")\nsettingsFilePath = str(Path.home() / \"node\" / \"settings\" / \"settings.ini\")\nqueuePath = (Path.home() / \"node\" / \"queue\")\ncertPath = str(Path.home() / \"node\" / \"certs\")\nkeyPath = str(Path.home() / \"node\" / \"keys\")\nlogPath = str(Path.home() / \"node\" / \"logs\")",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "serverShutdown",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "serverShutdown = False\n# Paths\ndefaultPath = str(Path.home() / \"node\")\nsettingsPath = str(Path.home() / \"node\" / \"settings\")\nsettingsFilePath = str(Path.home() / \"node\" / \"settings\" / \"settings.ini\")\nqueuePath = (Path.home() / \"node\" / \"queue\")\ncertPath = str(Path.home() / \"node\" / \"certs\")\nkeyPath = str(Path.home() / \"node\" / \"keys\")\nlogPath = str(Path.home() / \"node\" / \"logs\")\nweeklyPath = str(Path.home() / \"node\" / \"weekly.json\")",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "defaultPath",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "defaultPath = str(Path.home() / \"node\")\nsettingsPath = str(Path.home() / \"node\" / \"settings\")\nsettingsFilePath = str(Path.home() / \"node\" / \"settings\" / \"settings.ini\")\nqueuePath = (Path.home() / \"node\" / \"queue\")\ncertPath = str(Path.home() / \"node\" / \"certs\")\nkeyPath = str(Path.home() / \"node\" / \"keys\")\nlogPath = str(Path.home() / \"node\" / \"logs\")\nweeklyPath = str(Path.home() / \"node\" / \"weekly.json\")\nsaveDataPath = str(Path.home() / \"node\" / \"saveData.json\")\nnodePath = str(Path.home() / \"node\" / \"nodes.json\")",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "settingsPath",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "settingsPath = str(Path.home() / \"node\" / \"settings\")\nsettingsFilePath = str(Path.home() / \"node\" / \"settings\" / \"settings.ini\")\nqueuePath = (Path.home() / \"node\" / \"queue\")\ncertPath = str(Path.home() / \"node\" / \"certs\")\nkeyPath = str(Path.home() / \"node\" / \"keys\")\nlogPath = str(Path.home() / \"node\" / \"logs\")\nweeklyPath = str(Path.home() / \"node\" / \"weekly.json\")\nsaveDataPath = str(Path.home() / \"node\" / \"saveData.json\")\nnodePath = str(Path.home() / \"node\" / \"nodes.json\")\nfor path in [defaultPath, settingsPath, queuePath, certPath, keyPath, logPath ]:",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "settingsFilePath",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "settingsFilePath = str(Path.home() / \"node\" / \"settings\" / \"settings.ini\")\nqueuePath = (Path.home() / \"node\" / \"queue\")\ncertPath = str(Path.home() / \"node\" / \"certs\")\nkeyPath = str(Path.home() / \"node\" / \"keys\")\nlogPath = str(Path.home() / \"node\" / \"logs\")\nweeklyPath = str(Path.home() / \"node\" / \"weekly.json\")\nsaveDataPath = str(Path.home() / \"node\" / \"saveData.json\")\nnodePath = str(Path.home() / \"node\" / \"nodes.json\")\nfor path in [defaultPath, settingsPath, queuePath, certPath, keyPath, logPath ]:\n    if not os.path.exists(path):",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "queuePath",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "queuePath = (Path.home() / \"node\" / \"queue\")\ncertPath = str(Path.home() / \"node\" / \"certs\")\nkeyPath = str(Path.home() / \"node\" / \"keys\")\nlogPath = str(Path.home() / \"node\" / \"logs\")\nweeklyPath = str(Path.home() / \"node\" / \"weekly.json\")\nsaveDataPath = str(Path.home() / \"node\" / \"saveData.json\")\nnodePath = str(Path.home() / \"node\" / \"nodes.json\")\nfor path in [defaultPath, settingsPath, queuePath, certPath, keyPath, logPath ]:\n    if not os.path.exists(path):\n        os.makedirs(path)",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "certPath",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "certPath = str(Path.home() / \"node\" / \"certs\")\nkeyPath = str(Path.home() / \"node\" / \"keys\")\nlogPath = str(Path.home() / \"node\" / \"logs\")\nweeklyPath = str(Path.home() / \"node\" / \"weekly.json\")\nsaveDataPath = str(Path.home() / \"node\" / \"saveData.json\")\nnodePath = str(Path.home() / \"node\" / \"nodes.json\")\nfor path in [defaultPath, settingsPath, queuePath, certPath, keyPath, logPath ]:\n    if not os.path.exists(path):\n        os.makedirs(path)\n# update the weekly data",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "keyPath",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "keyPath = str(Path.home() / \"node\" / \"keys\")\nlogPath = str(Path.home() / \"node\" / \"logs\")\nweeklyPath = str(Path.home() / \"node\" / \"weekly.json\")\nsaveDataPath = str(Path.home() / \"node\" / \"saveData.json\")\nnodePath = str(Path.home() / \"node\" / \"nodes.json\")\nfor path in [defaultPath, settingsPath, queuePath, certPath, keyPath, logPath ]:\n    if not os.path.exists(path):\n        os.makedirs(path)\n# update the weekly data",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "logPath",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "logPath = str(Path.home() / \"node\" / \"logs\")\nweeklyPath = str(Path.home() / \"node\" / \"weekly.json\")\nsaveDataPath = str(Path.home() / \"node\" / \"saveData.json\")\nnodePath = str(Path.home() / \"node\" / \"nodes.json\")\nfor path in [defaultPath, settingsPath, queuePath, certPath, keyPath, logPath ]:\n    if not os.path.exists(path):\n        os.makedirs(path)\n# update the weekly data",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "weeklyPath",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "weeklyPath = str(Path.home() / \"node\" / \"weekly.json\")\nsaveDataPath = str(Path.home() / \"node\" / \"saveData.json\")\nnodePath = str(Path.home() / \"node\" / \"nodes.json\")\nfor path in [defaultPath, settingsPath, queuePath, certPath, keyPath, logPath ]:\n    if not os.path.exists(path):\n        os.makedirs(path)\n# update the weekly data",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "saveDataPath",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "saveDataPath = str(Path.home() / \"node\" / \"saveData.json\")\nnodePath = str(Path.home() / \"node\" / \"nodes.json\")\nfor path in [defaultPath, settingsPath, queuePath, certPath, keyPath, logPath ]:\n    if not os.path.exists(path):\n        os.makedirs(path)\n# update the weekly data",
+        "detail": "variables",
+        "documentation": {}
+    },
+    {
+        "label": "nodePath",
+        "kind": 5,
+        "importPath": "variables",
+        "description": "variables",
+        "peekOfCode": "nodePath = str(Path.home() / \"node\" / \"nodes.json\")\nfor path in [defaultPath, settingsPath, queuePath, certPath, keyPath, logPath ]:\n    if not os.path.exists(path):\n        os.makedirs(path)\n# update the weekly data",
+        "detail": "variables",
+        "documentation": {}
+    }
+]
