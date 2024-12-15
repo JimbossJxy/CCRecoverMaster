@@ -6,7 +6,6 @@
         This file will be responsible for the following:
             - Creating the layouts for the emails.
 """
-# Feel free to change the layout of the emails to your liking by changing the HTML code in the functions below.
 
 import datetime
 import pytz

@@ -43,6 +43,11 @@ class monthlyRestartManager:
                 await asyncio.sleep(20) # this allows the node to send the email as well as shut the other nodes down
                 await self.server.shutdown()
                 self.logger.info("Master node stopped successfully")
+            
+            if variables.stop:
+                self.logger.info("Stopping the master node")
+                await self.server.shutdown()
+                self.logger.info("Master node stopped successfully")
 
                     
 

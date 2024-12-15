@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# https://www.youtube.com/watch?v=iWS9ogMPOI0&ab_channel=pixegami - the tutorial i used as a learning resource for this project
+# https://www.youtube.com/watch?v=iWS9ogMPOI0&ab_channel=pixegami
 
 """
     TODO:
@@ -62,7 +62,7 @@ import serverRestart
 
 
 
-# Setting up the SSL context 
+# Setting up the SSL context
 #sslContext = ssl.create_default_context(ssl.PROTOCOL_TLS_SERVER)
 #sslContext.load_cert_chain(certfile=variables.settings["settings"]["sslcrt"], keyfile=variables.settings["settings"]["sslkey"])
 
@@ -300,8 +300,7 @@ async def found_password(request: Request):
 @app.post("/shutdown/") # This will shut down the server but it wont work as i have not implemented the server restart manager
 async def shutdown():
     try:
-        uvicorn.Server.shutdown()
-        variables.serverShutdown = True
+        variables.stop = True
         return {"message": "Server shutting down"}, 200
     except Exception as e:
         raise HTTPException(status_code=500, detail=f"An error occurred while shutting down the server: {e}")

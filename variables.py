@@ -16,17 +16,17 @@ from pathlib import Path
 
 settings = {
         "settings": {
-            'keys': { # At the moment the certificates aren't being used but they can be used for future implementations - Not too hard to implement
+            'keys': {
                 "sslcrt": str(Path.home() / "node" / "certs" / "cert.pem"), # Modify this for your own SSL certificate
                 "sslkey": str(Path.home() / "node" / "keys" / "key.pem"), # Modify this for your own SSL key
                 "ca": str(Path.home() / "node" / "certs" / "ca.pem"), # Modify this for your own CA certificate
             },
             'port': 443, # HTTPS port
-            'reciepientEmails': ['email@address', 'email@address'], # Update to your own email/'s 
+            'reciepientEmails': ['jcollum142@gmail.com', 'g.crowther@bigpond.com'], # Update to your own email/'s
             'credentialsLocation': str(Path.home() / "node" / "credentials.json"),
-            'masterEmail': 'email@address', # Update to the email you want to send the emails from
-            'queueSize': 25, # The amount of passwords to generate - bigger the number the more passwords will be generated which can be good for a large network but can have a performance impact
-            'amountOfPasswordsPerJsonFile': 1000, # The amount of passwords to generate per json file
+            'masterEmail': 'cryptocrackingalerts@gmail.com',
+            'queueSize': 25,
+            'amountOfPasswordsPerJsonFile': 1000,
     },
 }
 # all information about the master node
@@ -72,6 +72,7 @@ nodes = {
 
 found = False
 serverShutdown = False
+stop = False
 # Paths
 defaultPath = str(Path.home() / "node")
 settingsPath = str(Path.home() / "node" / "settings")

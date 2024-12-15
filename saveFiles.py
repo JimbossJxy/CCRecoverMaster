@@ -58,8 +58,8 @@ class SaveFiles:
     async def saveMasterInfoPeridically(self):
         while True:
             try:
-                variables.masterInfo["onlineNodes"] = len(variables.nodes["online"]) # Update the amount of online nodes
-                
+                # Node count, count of online nodes
+                variables.masterInfo["onlineNodes"] = len(variables.nodes["online"])
                 jsonData = json.dumps(variables.masterInfo, indent=4)
                 async with aiofiles.open(variables.saveDataPath, "w") as file:
                     await file.write(jsonData)
